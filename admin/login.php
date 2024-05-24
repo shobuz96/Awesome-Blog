@@ -19,7 +19,7 @@
   body {
     width: 100%;
     height: 100vh;
-    background: url("assets/img/login.jpg") no-repeat center center fixed;
+    background: url("assets/img/login.jpg") no-repeat !important;
     background-size: cover;
     display: flex;
     justify-content: center;
@@ -29,14 +29,13 @@
   main#main {
     width: 100%;
     height: 100%;
-    background: rgba(255, 255, 255, 0.9);
+    background: #1dd1a1;
     display: flex;
     justify-content: center;
     align-items: center;
   }
   #login-right {
     width: 40%;
-    background: white;
     display: flex;
     justify-content: center;
     align-items: center;

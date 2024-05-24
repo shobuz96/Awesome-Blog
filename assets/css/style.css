@@ -1651,7 +1651,7 @@ main#view-panel{
     top: 3.5rem;
 }
 main#main {
-    margin-top: 8rem;
+  margin-top: 8rem;
 }
 .unselectable {
     z-index: 99;
