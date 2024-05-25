@@ -18,7 +18,7 @@ include 'db_connect.php';
       color: white; /* Ensure all text and links are readable */
     }
     #header {
-      background-color: #ed52cb; /* Amber color */
+      background-color: cyan; /* Amber color */
       color: black; /* Text color for better readability */
     }
     #header .nav-menu a {
@@ -26,7 +26,7 @@ include 'db_connect.php';
     }
     #header .nav-menu a:hover, 
     #header .nav-menu .active > a {
-      color: #333; /* Different color on hover and active links for better UX */
+      color: #ed52cb; /* Different color on hover and active links for better UX */
     }
   </style>
 </head>
