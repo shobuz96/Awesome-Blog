@@ -9,7 +9,7 @@ include 'db_connect.php';
   <title>Blog Site</title>
   <style>
     #topbar {
-      background-color: #ff6b00; /* Amber color */
+      background-color: #ffbf00; /* Amber color */
       color: white; /* Text color for better readability */
     }
     #topbar .contact-info a,
